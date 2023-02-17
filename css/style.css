@@ -1,0 +1,67 @@
+.tasksentered  {
+    width: 400px;
+    margin: auto;
+    background-color: white;
+}
+.tasksentered p {
+    width: 300px;
+    padding: 10px 20px;
+    color: black;
+    
+}
+
+.big{
+    text-align: center;
+    width: 400px;
+    margin: 20px auto;
+}
+
+body{
+    background-color: palevioletred;
+
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.input{
+
+    padding: 5px 15px;
+    width: 300px;
+    margin: auto;
+
+
+}
+.add{
+    color: blue;
+    background-color: transparent;
+    position: relative;
+    border: none;
+    margin-left: -50px;
+}
+.delete{
+
+    color: red;
+    border: none;
+    margin-right: 100px;
+    margin-left: 900px;
+    position: relative;
+    margin-top: -500px;
+}
+.part{
+   
+    margin-left: 610px;
+}
+.false{
+    background-color: red;
+    color: white;
+    border: none;
+
+}
+hr{
+    color: rgb(31, 176, 220);
+}
+
+.hide{
+    display: none;
+}
